@@ -118,14 +118,3 @@ go vet ./...
 By contributing to Event Horizon, you explicitly agree that your structural additions, patches, and code changes will be bound by the project's **GNU General Public License v3.0 (GPLv3)**.
 
 ```
-
-### Step 3: Save and Push to GitHub
-
-Once saved, stage it, commit it, and update your repository:
-
-```bash
-git add CONTRIBUTING.md
-git commit -m "docs: implement professional Go-focused CONTRIBUTING guide"
-git push
-
-```
