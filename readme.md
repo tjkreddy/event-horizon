@@ -17,6 +17,13 @@ pip install pygame
 python main.py
 ```
 
+## Features
+
+- Newtonian gravity (`F = G * m1 * m2 / r²`) with Euler integration
+- Orbital simulation with configurable particle masses and velocities
+- Implemented as a `Particle` class with encapsulated `update()` and `draw()` methods
+- Frame-capped at 60 FPS for consistent simulation speed
+
 ## Controls
 
 Close the window to exit.
